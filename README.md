@@ -1,10 +1,10 @@
-### ytb-d
+# ytb-d
 
-# Wrapper for youtube
+### Wrapper for youtube
 
 Package wich allows to get music url of youtube
 
-# Process : 
+### Process : 
 
 ```
 import ytbD from 'ytb-d';
