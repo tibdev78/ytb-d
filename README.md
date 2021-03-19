@@ -2,7 +2,7 @@
 
 ### Wrapper for youtube
 
-Package wich allows to get music url of youtube
+Package wich allows to get music and video url of youtube
 
 ### Process : 
 
