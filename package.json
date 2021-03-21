@@ -1,6 +1,6 @@
 {
   "name": "ytb-d",
-  "version": "1.1.12",
+  "version": "1.1.13",
   "description": "wrapper for youtube",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
